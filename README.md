@@ -18,7 +18,7 @@ I am using LLMs to write and talk about the code in this repo, and I would sugge
 
 ## Awesome, overlooked resources
 
-1. [Web dev (really, web fundamentals) course](https://www.youtube.com/watch?v=dtiKDBO4nMc&list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI) by Steve Huffman, on of the founders of Reddit.
+1. [Web dev (really, web fundamentals) course](https://www.youtube.com/watch?v=dtiKDBO4nMc&list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI) by Steve Huffman, one of the founders of Reddit.
 2. [The Book to understand the how and the why of the web](https://hypermedia.systems/) by Carson Gross.
 
 -----------
